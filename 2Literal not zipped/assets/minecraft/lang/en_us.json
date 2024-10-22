@@ -1,0 +1,15 @@
+{
+  "item.minecraft.water_bucket": "Water Block",
+  "item.minecraft.bucket": "Liquid Catcher",
+  "item.minecraft.salmon_bucket" : "Salmon In A Water Block",
+  "item.minecraft.tropical_fish_bucket" : "Tropicla Fish In A Water Block",
+  "item.minecraft.pufferfish_bucket" : "Pufferfish In A Water Block",
+  "item.minecraft.axolotl_bucket" : "Axolotl In A Water Block",
+  "item.minecraft.tadpole_bucket" : "Tadpole In A Water Block",
+  "item.minecraft.lava_bucket" : "Lava Block",
+  "item.minecraft.powder_snow_bucket" : "Powder Snow Block",
+  "item.minecraft.milk_bucket" : "Milk Block",
+  "item.minecraft.cod_bucket" : "Cod In A Water Block",
+  "subtitles.item.bucket.empty": "Block placed",
+  "subtitles.item.bucket.fill": "Liquid solidifies"
+}
